@@ -8,6 +8,7 @@ Guia de ayuda para explicar el código, quizás hasta sirva para poner en la pre
 - **Control de bajo nivel:** ofrece acceso detallado a configuraciones del socket, opciones avanzadas y comportamiento específico del sistema.
 
 
+
 - Estrucutras necesarias:
 
 ```
